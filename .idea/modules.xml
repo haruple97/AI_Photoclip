@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ai_photo_clip.iml" filepath="$PROJECT_DIR$/.idea/modules/ai_photo_clip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ai_photo_clip.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ai_photo_clip.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photofilterssdk/ai_photo_clip.photofilterssdk.iml" filepath="$PROJECT_DIR$/.idea/modules/photofilterssdk/ai_photo_clip.photofilterssdk.iml" />
+    </modules>
+  </component>
+</project>

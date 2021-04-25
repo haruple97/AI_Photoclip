@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AI Photo Clip</string>
+    <string name="activity_title_main">AI Photo Clip</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">필터</string>
+    <string name="edit">편집</string>
+
+    <string name="lbl_brightness">밝기</string>
+    <string name="lbl_contrast">대비</string>
+    <string name="lbl_saturation">채도</string>
+    <string name="tab_filters">인공지능 필터</string>
+    <string name="tab_edit">편집</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">원본</string>
+    <string name="action_save">저장</string>
+    <string name="action_open">열기</string>
+</resources>
