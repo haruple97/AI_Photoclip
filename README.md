@@ -76,7 +76,7 @@ JSON과 필터 매칭은 나의 사진보정 노하우에 따라 지정하였다
 
 #### 예시
 ```sh
-    private void setLankGroup1() { //너무 복잡해서 두개로 나눔
+    private void setLankGroup1() { //객체인식 운선순위 지정
         mCoCoMap.put("person", new MsCoCo("person", "사람", 1,4));
         mCoCoMap.put("bicycle", new MsCoCo("bicycle", "자전거", 2,3));
         mCoCoMap.put("car", new MsCoCo("car", "자동차", 3,3));
